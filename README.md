@@ -1,6 +1,6 @@
 # Data-Science-Bootcamp Texas A&M Kingsville
 ## This repository contains the projects I completed as part of the Data Science certification program offered through Texas A&M Kingsville.
-## A total of five projects were completed during this course, and requirements for each project is listed below.  
+## A total of five projects were completed during this course and the requirements for each project are listed below.  
 
 
 # Project #1 Exploratory Data Analysis: Work Place Fatality Data Set
